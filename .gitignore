@@ -9,4 +9,12 @@
 __pycache__
 *.log
 .terraform/
+.vagrant/
+*.log
+*.pyc
+.molecule
+.cache
+.pytest_cache
+.yamllint
 jdauphant.nginx
+venv
